@@ -52,3 +52,5 @@ class Program
 }
 
 //TODO start off with tilemap template for world. then we can move to free form
+//give players option to load tilemap or create progamitically we need to define a DS to store the tilemap data
+//for now i think we can give fixed screen size and the tilemap has to be within it
