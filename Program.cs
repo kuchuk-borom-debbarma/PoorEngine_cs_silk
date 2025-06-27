@@ -50,3 +50,5 @@ class Program
         _gl.Clear(ClearBufferMask.ColorBufferBit);
     }
 }
+
+//TODO start off with tilemap template for world. then we can move to free form
